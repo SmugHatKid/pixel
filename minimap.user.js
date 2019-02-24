@@ -7,8 +7,8 @@
 // @match        https://pixelzone.io/*
 // @match        http://pixelzone.io/*
 // @homepage     https://github.com/Vasco-Pixel/mz
-// @updateURL    https://raw.githubusercontent.com/Vasco-Pixel/mz/master/minimap.user.js
-// @downloadURL  https://raw.githubusercontent.com/Vasco-Pixel/mz/master/minimap.user.js
+// @updateURL    https://github.com/SmugHatKid/pixel/master/minimap.user.js
+// @downloadURL  https://github.com/SmugHatKid/pixel/master/minimap.user.js
 // @grant        none
 // ==/UserScript==
 
