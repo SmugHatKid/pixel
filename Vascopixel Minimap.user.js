@@ -19,7 +19,6 @@ Number.prototype.between = function(a, b) {
 };
 var range = 25;
 window.baseTepmlateUrl = 'https://raw.githubusercontent.com/SmugHatKid/pixel/master';
-
 window.addEventListener('load', function () {
     //Regular Expression to get coordinates out of URL
     re = /(.*)\/\?p=(\-?(?:\d*)),(\-?(?:\d*))/g;
